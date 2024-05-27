@@ -1,6 +1,6 @@
 # Localizador de Dirección IP Pública
 
-![Imagen de la web]([ruta/a/la/imagen.jpg](https://i.ibb.co/Nj0szcF/mi-IPp-UBLICA.png))
+![Imagen de la web](https://i.ibb.co/Nj0szcF/mi-IPp-UBLICA.png)
 
 ## Descripción
 El Localizador de Dirección IP Pública es una herramienta web que te permite obtener información detallada sobre tu conexión a internet. Con esta aplicación, puedes descubrir tu dirección IP pública y conocer datos relevantes sobre tu ubicación geográfica, incluyendo ciudad, región y proveedor de servicios de internet.
